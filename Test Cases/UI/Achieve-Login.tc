@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Achieve-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e06e9ddf-529e-4f0c-bf17-a3785dc33b0d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('New Test Data')</defaultValue>
+      <description></description>
+      <id>389d70bf-1bd3-42bb-88ae-83ec2a2020ae</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('New Test Data')</defaultValue>
+      <description></description>
+      <id>f5ccf4d8-e4a8-4365-bbce-3268c4b094f2</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

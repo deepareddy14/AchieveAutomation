@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TM-Team HierarchyCountVerification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99c18cc7-b30c-406f-bebe-8fd41c9bf93c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a359a2a-69e7-4a8e-9db2-7182969f49be</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
