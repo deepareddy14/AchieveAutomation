@@ -20,7 +20,5 @@ response = WS.sendRequest(findTestObject('API/UMSDashboardSummary'))
 
 Totalusers = WS.getElementsCount(response, 'docs[0].total')
 
-WebUI.acceptAlert()
-
 TestNGKW.verifyEqual('', null)
 
